@@ -27,8 +27,10 @@ SOFTWARE.
 
 ###############################################################################
 
-The file "wordlist.cs" was largely derived from the The GSL General Service
-List, which is available under Public Domain from http://jbauman.com/gsl.html
+The file "PasswordGenerator/WordList/Constants/WordList.cs" was largely derived
+from the The GSL General Service List, which is available under Public Domain 
+from http://jbauman.com/gsl.html
+
 This one file is released under Public Domain.  Three modifications were made
 to the word list, other than reformatting for use in programming: The
 single-letter words "a" and "I" have been removed, and the word "FALSE" was
